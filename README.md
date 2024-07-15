@@ -8,7 +8,7 @@ This project is designed to analyze tennis players in video footage, measuring t
 ## Output Videos
 Here is a screenshot from one of the output videos:
 
-![Screenshot](output_videos/screenshot.jpeg)
+![Screenshot](screenshot.jpeg)
 
 ## Models Used
 * YOLO v8 for player detection
